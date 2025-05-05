@@ -14,16 +14,16 @@ A collection of different projects done using Java. This repository includes var
 
 Each project is organized in its own folder, containing the respective `.java` files:
 
-```plaintext
-java-projects/
-├── Project1/
-│   └── Main.java
-├── Project2/
-│   └── App.java
-├── Project3/
-│   └── Program.java
-└── ...
-```
+   ```plaintext
+   java-projects/
+   ├── Project1/
+   │   └── Main.java
+   ├── Project2/
+   │   └── App.java
+   ├── Project3/
+   │   └── Program.java
+   └── ...
+   ```
 
 ## 🔧 How to Use
 
