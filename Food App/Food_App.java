@@ -55,10 +55,10 @@ public class Food_App {
                 }
             } else {
                 System.out.println("Okay, Have a Good Day.");
-                return;
             }
         } else {
             System.out.println("Incorrect Password. Please try again.");
         }
+        sc.close();
     }
 }
